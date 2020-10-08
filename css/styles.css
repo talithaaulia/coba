@@ -1,0 +1,132 @@
+body {
+    margin: 0px;
+    background-color: lightsalmon;
+    color: black;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    margin-top: 50px;
+}
+
+h2 {
+    color: navy;
+    margin-top: 3rem;
+    margin-left: 5px;
+}
+
+p {
+    margin: 4px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+}
+
+.wrapper {
+    width: 720px;
+    padding-top: 225px;
+    margin: 0 auto;
+}
+
+.section {
+    margin-top: 100px;
+    margin-bottom: 200px;
+    font-family:"caveat",cursive;
+}
+
+/* SECTION PERTAMA */
+
+.intro {
+    text-align: left;
+}
+
+.tittle {
+    font-size: 40px;
+    font-family: "caveat",cursive;
+    font-weight: bold;
+}
+
+.h2-tittle {
+    margin-top: 3px;
+}
+
+.foto-profil {
+    float: left;
+    margin-right: 30px;
+    border-radius: 100%
+}
+
+.btn {
+    background-color:darkblue;
+    color: white;
+    margin-top: 12px;
+    padding: 12px 24px;
+    border-radius: 8px;
+    display: inline-block
+}
+
+.img-hobi {
+    width: 320px;
+    height: 320px;
+}
+
+/* SECTION KEDUA */
+
+.ux-skill-img {
+    float: left;
+    margin-right: 40px;
+    width: 300px;
+    height: 280px;
+    margin-bottom: 140px;
+}
+
+.web-skill-img {
+    float: right;
+    margin-left: 20px;
+    width: 320px;
+    height: 320px;
+    margin-top: 80px;
+}
+
+.webskill-row {
+    text-align: right;
+}
+
+.uxskill-row {
+    text-align: left;
+}
+
+/* SECTION KETIGA */
+
+.cta-text {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.footer{
+    background-color: salmon;
+    padding: 30px 50px 20px;
+}
+
+.social-links {
+    margin: 0 12px 20px;
+}
+
+.footer-text {
+    font-size: 12px;
+    margin-top: 30px;
+}
+
+#attribute {
+    position: absolute;
+    margin-left: 240px;
+    top: 280px;
+    width: 100px;
+    height: 100px;
+}
